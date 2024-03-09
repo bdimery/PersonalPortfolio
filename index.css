@@ -1,0 +1,25 @@
+.content {
+    display: grid;
+    width: 400px;
+    align-content: center;
+} 
+
+.homepagePhoto {
+    background-color: #6366A3;
+}
+
+p {
+    font-size: 30px;
+    font-weight: 100;
+}
+
+strong {
+    font-size: 40px;
+    text-transform: uppercase;
+    color: #6366A3;
+    font-weight: 900;
+}
+
+footer {
+    margin-top: 20px;
+}

@@ -1,0 +1,60 @@
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.proj-cont {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #6366A3;
+    margin: 20px 10px 0px 10px;
+    height: 350px;
+    width: 350px;
+    border-radius: 15px;
+    border: 5px solid #0A0B0A;
+    border-radius: 15px;
+    justify-content: center;
+    align-items: center;
+}
+
+.captionButton {
+    display: flex;
+    height: 50px;
+    width: 155px;
+    background-color: #0A0B0A;
+    color: #F9F9F9;
+    border-radius: 15px;
+    justify-content: center;
+    margin: 10px 5px;
+    align-items: center;
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.caption {
+    align-self: flex-end;
+}
+
+a {
+    font-weight: 700;
+}
+
+.captionButton:link { 
+    color: #F9F9F9;
+    text-decoration: none;
+} 
+.captionButton:hover {
+    color: #D3CF4A;
+    text-decoration: none; 
+}
+
+.headers {
+    text-align: center;
+    margin: 10px;
+}
+
+footer {
+    margin-top: 20px;
+}
